@@ -62,27 +62,27 @@ Given the geographic challenges and mobility restrictions in Gaza, this app cent
 ### 🔑 التوثيق والمصادقة (Authentication)
 | تسجيل الدخول | إنشاء حساب جديد | استعادة كلمة المرور |
 |:---:|:---:|:---:|
-| <img src="1000077739.jpg" width="220" /> | <img src="1000077741.jpg" width="220" /> | <img src="1000077743.jpg" width="220" /> |
+| <img src="https://github.com/user-attachments/assets/6eedd011-07ad-4b9f-869c-051c1b1f3d7d" width="220" /> | <img src="https://github.com/user-attachments/assets/6e70098c-73c7-40a9-b011-367475046e73" width="220" /> | <img src="https://github.com/user-attachments/assets/683a82b0-9829-4ecf-ba61-69a3e5e89291" width="220" /> |
 
 ### 🏪 تصفح المتجر والمنتجات (Store Exploration)
 | الرئيسة والتصنيفات | استكشاف المتاجر | صفحة المتجر | المفضلة |
 |:---:|:---:|:---:|:---:|
-| <img src="1000077675.jpg" width="200" /> | <img src="1000077677.jpg" width="200" /> | <img src="1000077679.jpg" width="200" /> | <img src="1000077681.jpg" width="200" /> |
+| <img src="https://github.com/user-attachments/assets/a6d909e4-5ff4-411e-b909-2b702985d873" width="200" /> | <img src="https://github.com/user-attachments/assets/7404f072-9706-42a1-8a0a-81f667bd8ea6" width="200" /> | <img src="https://github.com/user-attachments/assets/60625c25-85f2-4622-9564-725dfbbc8b08" width="200" /> | <img src="https://github.com/user-attachments/assets/2c627f84-f985-4c32-b2c0-906e4e8dbb86" width="200" /> |
 
 ### 🛒 مراجعة الطلب وبوابات الدفع (Checkout & Payments)
 | مراجعة السلة والمنطقة | اختيار بوابة الدفع | تتبع حالة الطلب اللحظية |
 |:---:|:---:|:---:|
-| <img src="1000077735.jpg" width="220" /> | <img src="1000077737.jpg" width="220" /> | <img src="100007701.jpg" width="220" /> |
+| <img src="https://github.com/user-attachments/assets/b685e9d9-9927-444b-ae57-90125cef9e36" width="220" /> | <img src="https://github.com/user-attachments/assets/44f577be-ae92-44c0-897a-7ddb433aa4f0" width="220" /> | <img src="https://github.com/user-attachments/assets/95680cff-670f-4899-9135-fabd9541e585" width="220" /> |
 
 ### 👤 الحساب الشخصي والعمليات المالية (Profile & FinTech)
 | معلومات الملف الشخصي | إدارة العناوين | مركز الإشعارات | المحفظة وسجل العمليات |
 |:---:|:---:|:---:|:---:|
-| <img src="100007783.jpg" width="200" /> | <img src="100007785.jpg" width="200" /> | <img src="100007787.jpg" width="200" /> | <img src="100007789.jpg" width="200" /> |
+| <img src="https://github.com/user-attachments/assets/bfcf02c3-6be8-42f5-b340-b3c684ab34ca" width="200" /> | <img src="https://github.com/user-attachments/assets/20346375-3d4d-4d31-a5b8-4da3daa118f9" width="200" /> | <img src="https://github.com/user-attachments/assets/176820aa-4db4-4ffc-85bb-46c83f1a42ed" width="200" /> | <img src="https://github.com/user-attachments/assets/3d14cf4d-e134-4de7-bae7-c747a1cc4e1c" width="200" /> |
 
 ### 🛠️ إدارة الطلبات والدعم الفني (Order Management & Support)
 | تفاصيل المشتريات | تتبع تقدم الشحن الفعلي | خيارات الدعم وإدارة الطلب |
 |:---:|:---:|:---:|
-| <img src="1000077691.jpg" width="220" /> | <img src="1000077693.jpg" width="220" /> | <img src="1000077745.jpg" width="220" /> |
+| <img src="https://github.com/user-attachments/assets/af0ee0bb-dab5-4ee4-9f30-d1183269bf85" width="220" /> | <img src="https://github.com/user-attachments/assets/a476c40b-4174-42ac-a29f-e58ba019628d" width="220" /> | <img src="https://github.com/user-attachments/assets/f910c391-d061-47f4-a2c3-dfb9fef340b5" width="220" /> |
 
 ---
 
@@ -90,4 +90,4 @@ Given the geographic challenges and mobility restrictions in Gaza, this app cent
 
 1. **تحميل المشروع (Clone the repository):**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/abosharekhosama-afk/store_app.git](https://github.com/abosharekhosama-afk/store_app.git)
