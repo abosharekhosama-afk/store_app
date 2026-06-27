@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211144366461",
+    "project_id": "stor-shooping",
+    "storage_bucket": "stor-shooping.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211144366461:android:b3cef01058104b66ee5414",
+        "android_client_info": {
+          "package_name": "com.example.untitled2_ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9aaDq7QbTNQC-OmRdW5x4OZ8UQxxGv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

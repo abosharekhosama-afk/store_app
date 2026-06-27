@@ -1,0 +1,120 @@
+lib\utils\helpers\cloud_helper_functions.dart:20||No Data Found!
+lib\utils\helpers\cloud_helper_functions.dart:24||Something went wrong.
+lib\utils\helpers\cloud_helper_functions.dart:50||No Data Found!
+lib\utils\helpers\cloud_helper_functions.dart:55||Something went wrong.
+lib\utils\helpers\network_manager.dart:30||No Internet Connection
+lib\features\shop\controllers\banner_controller.dart:32||On Snap!
+lib\features\shop\controllers\brand_controller.dart:32||Oh Snap!
+lib\features\shop\controllers\brand_controller.dart:43||Oh Snap!1
+lib\features\shop\controllers\brand_controller.dart:59||Oh Snap!2
+lib\features\shop\controllers\category_controller.dart:93||On Snap!
+lib\features\shop\controllers\category_controller.dart:119||Oh Snap!
+lib\features\shop\controllers\checkout_controller.dart:45||Select Payment Method
+lib\features\shop\controllers\store_controller_new.dart:49||تعذر جلب المتاجر: $e
+lib\features\shop\controllers\store_controller_new.dart:99||تعذر جلب البيانات من السيرفر: $e
+lib\features\shop\screens\cart\cart.dart:33||الدفع \$${controller.totalCartPrice.value}
+lib\features\shop\screens\checkout\checkout.dart:297||تأكيد الطلب بمبلغ \$$finalPrice
+lib\features\shop\screens\checkout\checkout.dart:544||\$$fee
+lib\features\shop\screens\order\orders_list.dart:252||تم نسخ $label بنجاح
+lib\features\shop\screens\order\order_detail_screen.dart:38||#${order.id}
+lib\features\shop\screens\checkout\widget\billing_payment_section.dart:20||Payment Method
+lib\features\shop\controllers\product\all_product_controller.dart:59||Oh Snap!
+lib\features\shop\controllers\product\cart_controller.dart:24||Select Qauntity
+lib\features\shop\controllers\product\cart_controller.dart:29||Select Variation
+lib\features\shop\controllers\product\cart_controller.dart:35||Oh Snap!
+lib\features\shop\controllers\product\cart_controller.dart:36||Selected variation is out of stock.
+lib\features\shop\controllers\product\cart_controller.dart:43||Oh Snap!
+lib\features\shop\controllers\product\cart_controller.dart:44||Selected product is out of stock.
+lib\features\shop\controllers\product\cart_controller.dart:68||Your product has been added to the Cart.
+lib\features\shop\controllers\product\cart_controller.dart:200||Remove Product
+lib\features\shop\controllers\product\cart_controller.dart:205||Product removed from the Cart.
+lib\features\shop\controllers\product\favourites_controller.dart:43||Product has been added to the wishlist.
+lib\features\shop\controllers\product\favourites_controller.dart:50||Product has been removed to the wishlist.
+lib\features\shop\controllers\product\product_controller.dart:490||Oh Snap
+lib\features\shop\controllers\product\product_controller.dart:510||Oh Snap
+lib\features\personalization\controllers\address_controller.dart:256||Your address has been saved successfully.
+lib\features\personalization\controllers\address_controller.dart:264||Address not found
+lib\features\personalization\controllers\address_controller.dart:290||Select Address
+lib\features\personalization\controllers\address_controller.dart:328||Add new address
+lib\features\personalization\controllers\update_name_controller.dart:58||Your Name has been updated.
+lib\features\personalization\controllers\update_name_controller.dart:63||Oh snap
+lib\features\personalization\controllers\user_controller.dart:307||Delete Account
+lib\features\personalization\controllers\user_controller.dart:348||Oh snap
+lib\features\personalization\controllers\user_controller.dart:380||Oh snap
+lib\features\personalization\screens\profile\change_name.dart:40||First name
+lib\features\personalization\screens\profile\change_name.dart:52||Last name
+lib\features\personalization\screens\profile\widget\re_authenticate_user_login_form.dart:16||Re-Authenticate User
+lib\features\authentication\screens\signup\widgets\signUpForm.dart:28||First name
+lib\features\authentication\screens\signup\widgets\signUpForm.dart:41||Last name
+lib\features\authentication\controllers\forget_password\forget_password_controller.dart:40||Email Sent
+lib\features\authentication\controllers\forget_password\forget_password_controller.dart:41||Email Link to Reset Your Password
+lib\features\authentication\controllers\forget_password\forget_password_controller.dart:46||OH Snap
+lib\features\authentication\controllers\forget_password\forget_password_controller.dart:67||Email Sent
+lib\features\authentication\controllers\forget_password\forget_password_controller.dart:68||Email Link to Reset Your Password
+lib\features\authentication\controllers\forget_password\forget_password_controller.dart:72||OH Snap
+lib\features\authentication\controllers\login\login_controller.dart:61||On Snap!
+lib\features\authentication\controllers\login\login_controller.dart:84||Oh Snap
+lib\features\authentication\controllers\signup\signup_controllers.dart:40||Accept Privacy policy
+lib\features\authentication\controllers\signup\signup_controllers.dart:76||Your account has been created! verify email to continue.
+lib\features\authentication\controllers\signup\signup_controllers.dart:82||On Snap!
+lib\features\authentication\controllers\signup\verify_email_controller.dart:27||Email Sent
+lib\features\authentication\controllers\signup\verify_email_controller.dart:28||Pleas Check your inbox and verify your email.
+lib\features\authentication\controllers\signup\verify_email_controller.dart:31||Oh Snap!
+lib\data\repositories\banners\banner_repository.dart:63||All Data has been Loading.
+lib\data\repositories\banners\banner_repository.dart:67||Oh Snap!
+lib\data\repositories\banners\banner_repository.dart:71||Oh Snap!
+lib\data\repositories\banners\banner_repository.dart:75||Oh Snap!
+lib\data\repositories\banners\banner_repository.dart:79||Oh Snap!
+lib\data\repositories\brands\brand_repository.dart:57||Oh Snap!3
+lib\data\repositories\brands\brand_repository.dart:60||Oh Snap!4
+lib\data\repositories\brands\brand_repository.dart:63||Oh Snap!5
+lib\data\repositories\brands\brand_repository.dart:66||Oh Snap!6
+lib\data\repositories\brands\brand_repository.dart:98||All Data has been Loading.
+lib\data\repositories\brands\brand_repository.dart:102||Oh Snap!
+lib\data\repositories\brands\brand_repository.dart:106||Oh Snap!
+lib\data\repositories\brands\brand_repository.dart:110||Oh Snap!
+lib\data\repositories\brands\brand_repository.dart:114||Oh Snap!
+lib\data\repositories\brands\brand_repository.dart:159||All Data has been Loading.
+lib\data\repositories\brands\brand_repository.dart:163||Oh Snap!
+lib\data\repositories\brands\brand_repository.dart:167||Oh Snap!
+lib\data\repositories\brands\brand_repository.dart:171||Oh Snap!
+lib\data\repositories\brands\brand_repository.dart:175||Oh Snap!
+lib\data\repositories\categories\categories_repositiry.dart:63||All Data has been Loading.
+lib\data\repositories\categories\categories_repositiry.dart:67||Oh Snap!
+lib\data\repositories\categories\categories_repositiry.dart:71||Oh Snap!
+lib\data\repositories\categories\categories_repositiry.dart:75||Oh Snap!
+lib\data\repositories\categories\categories_repositiry.dart:79||Oh Snap!
+lib\data\repositories\categories\categories_repositiry.dart:96||Oh Snap!
+lib\data\repositories\categories\categories_repositiry.dart:100||Oh Snap!
+lib\data\repositories\categories\categories_repositiry.dart:104||Oh Snap!
+lib\data\repositories\categories\categories_repositiry.dart:108||Oh Snap!
+lib\data\repositories\product\product_repository.dart:46||Oh Snap?
+lib\data\repositories\product\product_repository.dart:49||Oh Snap?
+lib\data\repositories\product\product_repository.dart:52||Oh Snap?
+lib\data\repositories\product\product_repository.dart:55||Oh Snap?
+lib\data\repositories\product\product_repository.dart:68||Oh Snap?
+lib\data\repositories\product\product_repository.dart:71||Oh Snap?
+lib\data\repositories\product\product_repository.dart:74||Oh Snap?
+lib\data\repositories\product\product_repository.dart:77||Oh Snap?
+lib\data\repositories\product\product_repository.dart:156||Oh Snap?
+lib\data\repositories\product\product_repository.dart:159||Oh Snap?
+lib\data\repositories\product\product_repository.dart:162||Oh Snap?
+lib\data\repositories\product\product_repository.dart:165||Oh Snap?
+lib\data\repositories\product\product_repository.dart:194||Oh Snap?10
+lib\data\repositories\product\product_repository.dart:197||Oh Snap?11
+lib\data\repositories\product\product_repository.dart:200||Oh Snap?12
+lib\data\repositories\product\product_repository.dart:203||Oh Snap?133
+lib\data\repositories\product\product_repository.dart:221||Oh Snap?z
+lib\data\repositories\product\product_repository.dart:224||Oh Snap?x
+lib\data\repositories\product\product_repository.dart:227||Oh Snap?c
+lib\data\repositories\product\product_repository.dart:230||Oh Snap?v
+lib\data\repositories\product\product_repository.dart:293||All Data has been Loading.
+lib\data\repositories\product\product_repository.dart:298||Oh Snap!
+lib\data\repositories\product\product_repository.dart:302||Oh Snap!
+lib\data\repositories\product\product_repository.dart:306||Oh Snap!
+lib\data\repositories\product\product_repository.dart:310||Oh Snap!
+lib\data\repositories\product\product_repository.dart:332||Oh Snap??
+lib\data\repositories\product\product_repository.dart:335||Oh Snap??
+lib\data\repositories\product\product_repository.dart:338||Oh Snap??
+lib\data\repositories\product\product_repository.dart:341||Oh Snap??
+---TOTAL---119

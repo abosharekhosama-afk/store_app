@@ -1,0 +1,279 @@
+lib\TFirebase_storage_service.dart:24||Error loading image data: $e
+lib\wallet\screen\WalletScreen.dart:268||أرباح طلب #${data['orderId']?.toString().substring(0, 5)}...
+lib\utils\constants\image_strings.dart:28||assets/logo/t-store-splash-logo-black.png
+lib\utils\constants\image_strings.dart:29||assets/logo/t-store-splash-logo-white.png
+lib\utils\constants\image_strings.dart:33||assets/images/forget_password/forget-password.png
+lib\utils\constants\image_strings.dart:46||assets/images/profile/profile-pic.png
+lib\utils\constants\image_strings.dart:56||assets/images/animations/lady-adding-product-in-cart-animation.json
+lib\utils\constants\image_strings.dart:58||assets/images/animations/order-complete-car-delivery-animation.json
+lib\utils\constants\image_strings.dart:60||assets/images/animations/120978-payment-successful.json
+lib\utils\constants\image_strings.dart:96||assets/icons/payment_methods/apple-pay.png
+lib\utils\constants\image_strings.dart:97||assets/icons/payment_methods/google-pay.png
+lib\utils\constants\image_strings.dart:99||assets/icons/payment_methods/credit-card.png
+lib\utils\constants\image_strings.dart:101||assets/icons/payment_methods/master-card.png
+lib\utils\constants\text_strings.dart:131||سنرسل رسالة SMS مرة واحدة.
+lib\utils\constants\text_strings.dart:145||أدخل رمز OTP المكون من 6 أرقام
+lib\utils\constants\text_strings.dart:172||superAdmin@codingwitht.com
+lib\utils\constants\text_strings.dart:228||support@codingwitht.com
+lib\utils\constants\text_strings.dart:229||Admin@123
+lib\utils\examples\image_system_examples.dart:298||حجم الـ Cache:
+lib\utils\examples\image_system_examples.dart:359||تفاصيل الـ Cache
+lib\utils\examples\image_system_examples.dart:365||الحجم الإجمالي: ${controller.cacheSizeText.value}
+lib\utils\examples\image_system_examples.dart:368||عدد الصور: ${controller.cachedImagesCount}
+lib\utils\exceptions\exceptions.dart:7||An unexpected error occurred. Please try again.
+lib\utils\exceptions\exceptions.dart:12||email-already-in-use
+lib\utils\exceptions\exceptions.dart:13||The email address is already registered. Please use a different email.
+lib\utils\exceptions\exceptions.dart:14||invalid-email
+lib\utils\exceptions\exceptions.dart:15||The email address provided is invalid. Please enter a valid email.
+lib\utils\exceptions\exceptions.dart:16||weak-password
+lib\utils\exceptions\exceptions.dart:17||The password is too weak. Please choose a stronger password.
+lib\utils\exceptions\exceptions.dart:21||Invalid login details. User not found.
+lib\utils\exceptions\exceptions.dart:22||wrong-password
+lib\utils\exceptions\exceptions.dart:23||Incorrect password. Please check your password and try again.
+lib\utils\exceptions\exceptions.dart:25||Invalid login credentials. Please double-check your information.
+lib\utils\exceptions\exceptions.dart:28||invalid-argument
+lib\utils\exceptions\exceptions.dart:29||Invalid argument provided to the authentication method.
+lib\utils\exceptions\exceptions.dart:30||invalid-password
+lib\utils\exceptions\exceptions.dart:31||Incorrect password. Please try again.
+lib\utils\exceptions\exceptions.dart:32||invalid-phone-number
+lib\utils\exceptions\exceptions.dart:33||The provided phone number is invalid.
+lib\utils\exceptions\exceptions.dart:41||Sign-in failed. Please try again.
+lib\utils\exceptions\exceptions.dart:42||network-request-failed
+lib\utils\exceptions\exceptions.dart:43||Network request failed. Please check your internet connection.
+lib\utils\exceptions\exceptions.dart:44||internal-error
+lib\utils\exceptions\exceptions.dart:45||Internal error. Please try again later.
+lib\utils\exceptions\exceptions.dart:46||invalid-verification-code
+lib\utils\exceptions\exceptions.dart:47||Invalid verification code. Please enter a valid code.
+lib\utils\exceptions\exceptions.dart:48||invalid-verification-id
+lib\utils\exceptions\exceptions.dart:49||Invalid verification ID. Please request a new verification code.
+lib\utils\exceptions\firebase_auth_exceptions.dart:32||email-already-exists
+lib\utils\exceptions\firebase_auth_exceptions.dart:33||The email address already exists. Please use a different email.
+lib\utils\exceptions\firebase_auth_exceptions.dart:36||requires-recent-login
+lib\utils\exceptions\firebase_auth_exceptions.dart:43||An account already exists with the same email but different sign-in credentials.
+lib\utils\exceptions\firebase_auth_exceptions.dart:48||invalid-action-code
+lib\utils\exceptions\firebase_auth_exceptions.dart:49||The action code is invalid. Please check the code and try again.
+lib\utils\exceptions\firebase_auth_exceptions.dart:53||The user\
+lib\utils\exceptions\firebase_auth_exceptions.dart:54||invalid-credential
+lib\utils\exceptions\firebase_auth_exceptions.dart:58||invalid-message-payload
+lib\utils\exceptions\firebase_auth_exceptions.dart:59||The email template verification message payload is invalid.
+lib\utils\exceptions\firebase_auth_exceptions.dart:60||invalid-sender
+lib\utils\exceptions\firebase_auth_exceptions.dart:61||The email template sender is invalid. Please verify the sender\
+lib\utils\exceptions\firebase_auth_exceptions.dart:62||invalid-recipient-email
+lib\utils\exceptions\firebase_auth_exceptions.dart:63||The recipient email address is invalid. Please provide a valid recipient email.
+lib\utils\exceptions\firebase_auth_exceptions.dart:65||The email template is missing the iframe start tag.
+lib\utils\exceptions\firebase_auth_exceptions.dart:67||The email template is missing the iframe end tag.
+lib\utils\exceptions\firebase_auth_exceptions.dart:69||The email template is missing the iframe dashboard attribute.
+lib\utils\exceptions\firebase_auth_exceptions.dart:70||auth-domain-config-required
+lib\utils\exceptions\firebase_auth_exceptions.dart:71||The authDomain configuration is required for the action code verification link.
+lib\utils\exceptions\firebase_auth_exceptions.dart:74||invalid-app-credential
+lib\utils\exceptions\firebase_auth_exceptions.dart:75||The app credential is invalid. Please provide a valid app credential.
+lib\utils\exceptions\firebase_auth_exceptions.dart:80||invalid-cordova-configuration
+lib\utils\exceptions\firebase_auth_exceptions.dart:81||The provided Cordova configuration is invalid.
+lib\utils\exceptions\firebase_auth_exceptions.dart:90||keychain-error
+lib\utils\exceptions\firebase_auth_exceptions.dart:91||A keychain error occurred. Please check the keychain and try again.
+lib\utils\exceptions\firebase_auth_exceptions.dart:93||An internal authentication error occurred. Please try again later.
+lib\utils\exceptions\firebase_auth_exceptions.dart:95||Invalid login credentials.
+lib\utils\exceptions\firebase_auth_exceptions.dart:97||An unexpected authentication error occurred. Please try again.
+lib\utils\exceptions\firebase_exceptions.dart:13||An unknown Firebase error occurred. Please try again.
+lib\utils\exceptions\firebase_exceptions.dart:14||invalid-custom-token
+lib\utils\exceptions\firebase_exceptions.dart:21||No user found for the given email or UID.
+lib\utils\exceptions\firebase_exceptions.dart:40||captcha-check-failed
+lib\utils\exceptions\firebase_exceptions.dart:41||The reCAPTCHA response is invalid. Please try again.
+lib\utils\exceptions\firebase_exceptions.dart:97||An unexpected Firebase error occurred. Please try again.
+lib\utils\exceptions\format_exceptions.dart:7||An unexpected format error occurred. Please check your input.
+lib\utils\exceptions\format_exceptions.dart:20||invalid-email-format
+lib\utils\exceptions\format_exceptions.dart:21||The email address format is invalid. Please enter a valid email.
+lib\utils\exceptions\format_exceptions.dart:22||invalid-phone-number-format
+lib\utils\exceptions\format_exceptions.dart:23||The provided phone number format is invalid. Please enter a valid number.
+lib\utils\exceptions\format_exceptions.dart:24||invalid-date-format
+lib\utils\exceptions\format_exceptions.dart:25||The date format is invalid. Please enter a valid date.
+lib\utils\exceptions\format_exceptions.dart:26||invalid-url-format
+lib\utils\exceptions\format_exceptions.dart:27||The URL format is invalid. Please enter a valid URL.
+lib\utils\exceptions\format_exceptions.dart:28||invalid-credit-card-format
+lib\utils\exceptions\format_exceptions.dart:29||The credit card format is invalid. Please enter a valid credit card number.
+lib\utils\exceptions\format_exceptions.dart:30||invalid-numeric-format
+lib\utils\exceptions\platform_exceptions.dart:39||An unexpected platform error occurred. Please try again.
+lib\utils\formatters\formatter.dart:41||+${digitsOnly.substring(0, 2)}
+lib\utils\formatters\formatter.dart:46||($countryCode)
+lib\utils\formatters\formatter.dart:75||$countryCode$phoneNumber
+lib\utils\helpers\cloud_helper_functions.dart:20||No Data Found!
+lib\utils\helpers\cloud_helper_functions.dart:24||Something went wrong.
+lib\utils\helpers\network_manager.dart:30||No Internet Connection
+lib\utils\services\image_manager_service.dart:144||Error removing cached image: $e
+lib\utils\services\image_manager_service.dart:154||Error clearing cache: $e
+lib\utils\services\image_validation_service.dart:93||❌ خطأ في تحميل الصورة:\nRabbit: $imageUrl\nخطأ: $error\nالوقت: ${DateTime.now()}
+lib\utils\utilities\image_optimization_utility.dart:47||Error preloading image: $e
+lib\utils\utilities\image_optimization_utility.dart:83||Error removing image from cache: $e
+lib\utils\utilities\image_optimization_utility.dart:317||Failed to get cache stats: $e
+lib\utils\validators\validation.dart:10||$fieldName is required.
+lib\utils\validators\validation.dart:18||Pin Code is required.
+lib\utils\validators\validation.dart:31||Date of Birth is required.
+lib\utils\validators\validation.dart:47||Invalid date format. Use dd-MMM-yyyy.
+lib\utils\validators\validation.dart:56||Username is required.
+lib\utils\validators\validation.dart:74||Username is not valid.
+lib\utils\validators\validation.dart:83||Email is required.
+lib\utils\validators\validation.dart:87||^[\w-.]+@([\w-]+\.)+[\w-]{2,4}$
+lib\utils\validators\validation.dart:90||Invalid email address.
+lib\utils\validators\validation.dart:99||Password is required.
+lib\utils\validators\validation.dart:104||Password must be at least 6 characters long.
+lib\utils\validators\validation.dart:109||Password must contain at least one uppercase letter.
+lib\utils\validators\validation.dart:114||Password must contain at least one number.
+lib\utils\validators\validation.dart:119||Password must contain at least one special character.
+lib\utils\validators\validation.dart:128||Phone number is required.
+lib\utils\validators\validation.dart:145||Invalid phone number format (10 digits required).
+lib\features\shop\controllers\banner_controller.dart:32||On Snap!
+lib\features\shop\controllers\brand_controller.dart:32||Oh Snap!
+lib\features\shop\controllers\brand_controller.dart:43||Oh Snap!1
+lib\features\shop\controllers\brand_controller.dart:59||Oh Snap!2
+lib\features\shop\controllers\checkout_controller.dart:45||Select Payment Method
+lib\features\shop\controllers\checkout_controller.dart:59||Google pay
+lib\features\shop\controllers\checkout_controller.dart:73||Master Card
+lib\features\shop\controllers\checkout_controller.dart:80||Credit Card
+lib\features\shop\controllers\dummy_data.dart:15||Coding with T
+lib\features\shop\controllers\dummy_data.dart:16||support@codingwithT.com
+lib\features\shop\controllers\dummy_data.dart:25||South Liana
+lib\features\shop\controllers\dummy_data.dart:32||John Doe
+lib\features\shop\controllers\dummy_data.dart:35||New York
+lib\features\shop\controllers\dummy_data.dart:38||United States
+lib\features\shop\controllers\dummy_data.dart:43||Alice Smith
+lib\features\shop\controllers\dummy_data.dart:46||Los Angeles
+lib\features\shop\controllers\dummy_data.dart:54||Taimoor Sikander
+lib\features\shop\controllers\dummy_data.dart:65||Maria Garcia
+lib\features\shop\controllers\dummy_data.dart:68||Buenos Aires
+lib\features\shop\controllers\dummy_data.dart:76||Liam Johnson
+lib\features\shop\controllers\dummy_data.dart:82||United Kingdom
+lib\features\shop\controllers\dummy_data.dart:171||Sport Shoes
+lib\features\shop\controllers\dummy_data.dart:178||Track suits
+lib\features\shop\controllers\dummy_data.dart:185||Sports Equipments
+lib\features\shop\controllers\dummy_data.dart:193||Bedroom furniture
+lib\features\shop\controllers\dummy_data.dart:200||Kitchen furniture
+lib\features\shop\controllers\dummy_data.dart:207||Office furniture
+lib\features\shop\controllers\dummy_data.dart:241||Green Nike sports shoe
+lib\features\shop\controllers\dummy_data.dart:321||Blue T-shirt for all ages
+lib\features\shop\controllers\dummy_data.dart:345||Leather brown Jacket
+lib\features\shop\controllers\dummy_data.dart:370||4 Color collar t-shirt dry fit
+lib\features\shop\controllers\dummy_data.dart:464||Nike Air Jordon Shoes
+lib\features\shop\controllers\dummy_data.dart:548||SAMSUNG Galaxy S9
+lib\features\shop\controllers\dummy_data.dart:573||TOMI Dog food
+lib\features\shop\controllers\dummy_data.dart:593||Nike Air Jordon 19 Blue
+lib\features\shop\controllers\order_controller.dart:61||Payment Success!
+lib\features\shop\controllers\order_controller.dart:62||Your item will be shipped soon!
+lib\features\shop\controllers\order_controller.dart:67||Oh Snap
+lib\features\shop\controllers\store_controller_new.dart:49||تعذر جلب المتاجر: $e
+lib\features\shop\controllers\store_controller_new.dart:86||$search\uf8ff
+lib\features\shop\controllers\store_controller_new.dart:99||تعذر جلب البيانات من السيرفر: $e
+lib\features\shop\controllers\store_controller_new.dart:120||Total Stores: ${allStores.length}
+lib\features\shop\controllers\store_controller_new.dart:137||Filtered Stores: ${tempStores.length}
+lib\features\shop\controllers\store_details_controller.dart:115||Error fetching more: ${e.toString()}
+lib\features\shop\models\shipping_calculator_service.dart:136||Error fetching fee: $e
+lib\features\shop\screens\cart\cart.dart:33||الدفع \$${controller.totalCartPrice.value}
+lib\features\shop\screens\checkout\checkout.dart:297||تأكيد الطلب بمبلغ \$$finalPrice
+lib\features\shop\screens\checkout\checkout.dart:439||الدفع \$$totalAmount
+lib\features\shop\screens\checkout\checkout.dart:544||\$$fee
+lib\features\shop\screens\order\orders_list.dart:122||#${order.id}
+lib\features\shop\screens\order\orders_list.dart:189||+${order.items.length - 4}
+lib\features\shop\screens\order\orders_list.dart:208||\$${order.totalAmount}
+lib\features\shop\screens\order\orders_list.dart:252||تم نسخ $label بنجاح
+lib\features\shop\screens\order\orders_list.dart:296||Woops! No Orders Yet!
+lib\features\shop\screens\order\orders_list.dart:386||ID: #${order.id}
+lib\features\shop\screens\order\orders_list.dart:420||رمز الاستلام: ${order.deliveryCode}
+lib\features\shop\screens\order\order_detail_screen.dart:91||${order.items.length} قطع
+lib\features\shop\screens\order\order_detail_screen.dart:370||\$${order.itemsAmount}
+lib\features\shop\screens\order\order_detail_screen.dart:373||\$${order.shippingAmount}
+lib\features\shop\screens\order\order_detail_screen.dart:403||${order.address?.address ??
+lib\features\shop\screens\order\order_detail_screen.dart:727||Order Details #${order.id}
+lib\features\shop\screens\order\order_detail_screen.dart:800||Order Items
+lib\features\shop\screens\stores\store_guide_screen.dart:503||عرض المتاجر في: ${controller.selectedCity.value} - ${controller.selectedDistrict.value}
+lib\features\shop\screens\wishList\wishList.dart:50||Whoops! Wishlist is Empty...
+lib\features\shop\screens\stores\widget\store_large_card.dart:152||${store.city} - ${store.neighborhood}
+lib\features\shop\screens\product_details\widgets\product_attributs.dart:49||${controller.selectedVariation.value.price}
+lib\features\shop\screens\product_details\widgets\product_attributs.dart:138||EU 36
+lib\features\shop\screens\product_details\widgets\product_attributs.dart:139||EU 38
+lib\features\shop\screens\checkout\widget\billing_address_section.dart:44||${selected.city}, ${selected.district}
+lib\features\shop\screens\checkout\widget\billing_address_section.dart:77||Shipping Address
+lib\features\shop\screens\checkout\widget\billing_address_section.dart:123||Select Address
+lib\features\shop\screens\checkout\widget\billing_amont_section.dart:79||\$$subTotal
+lib\features\shop\screens\checkout\widget\billing_payment_section.dart:20||Payment Method
+lib\features\shop\controllers\product\cart_controller.dart:24||Select Qauntity
+lib\features\shop\controllers\product\cart_controller.dart:29||Select Variation
+lib\features\shop\controllers\product\cart_controller.dart:36||Selected variation is out of stock.
+lib\features\shop\controllers\product\cart_controller.dart:44||Selected product is out of stock.
+lib\features\shop\controllers\product\cart_controller.dart:68||Your product has been added to the Cart.
+lib\features\shop\controllers\product\cart_controller.dart:200||Remove Product
+lib\features\shop\controllers\product\cart_controller.dart:205||Product removed from the Cart.
+lib\features\shop\controllers\product\favourites_controller.dart:43||Product has been added to the wishlist.
+lib\features\shop\controllers\product\favourites_controller.dart:50||Product has been removed to the wishlist.
+lib\features\shop\controllers\product\image_cache_controller.dart:41||Error initializing image cache: $e
+lib\features\shop\controllers\product\image_cache_controller.dart:55||Error preloading images: $e
+lib\features\shop\controllers\product\image_cache_controller.dart:67||Error preloading single image: $e
+lib\features\shop\controllers\product\image_cache_controller.dart:96||Error clearing image cache: $e
+lib\features\shop\controllers\product\image_cache_controller.dart:113||Error updating cache stats: $e
+lib\features\shop\controllers\product\order_controller_new.dart:358||failed-precondition
+lib\features\shop\controllers\product\order_controller_new.dart:444||تم إلغاء $cancelledCount منتج فوراً وإعادة ($refundedAmount) شيكل لمحفظتك، وتحويل $reviewCount منتج آخر للإدارة للمراجعة.
+lib\features\shop\controllers\product\order_controller_new.dart:450||تم تقديم طلب الإلغاء/الإرجاع لعدد $reviewCount منتج بنجاح، وهو قيد المراجعة حالياً من قِبل الإدارة.
+lib\features\shop\controllers\product\product_controller.dart:422||${searchQuery.value}\uf8ff
+lib\features\personalization\controllers\address_controller.dart:221||Storing Address...
+lib\features\personalization\controllers\address_controller.dart:256||Your address has been saved successfully.
+lib\features\personalization\controllers\address_controller.dart:264||Address not found
+lib\features\personalization\controllers\address_controller.dart:328||Add new address
+lib\features\personalization\controllers\update_name_controller.dart:58||Your Name has been updated.
+lib\features\personalization\controllers\update_name_controller.dart:63||Oh snap
+lib\features\personalization\controllers\user_controller.dart:47||User Profile Image URL value: ${user.value.username}
+lib\features\personalization\controllers\user_controller.dart:87||Data not saved
+lib\features\personalization\controllers\user_controller.dart:89||something went wrong while saving your information. you can re-save your data in your profile.
+lib\features\personalization\controllers\user_controller.dart:307||Delete Account
+lib\features\personalization\models\Address_model.dart:103||$street, $city, $state, $postalCode, $country
+lib\features\personalization\models\address_model_new.dart:42||$city, $district, $street
+lib\features\personalization\models\address_model_new.dart:44||$country, $city, $district, $street $buildingNumber, $postalCode
+lib\features\personalization\models\user_model.dart:33||$firstName $lastName
+lib\features\personalization\models\user_model.dart:44||$firstName$lastName
+lib\features\personalization\models\user_model.dart:45||unt_$cameCaseUserName
+lib\features\personalization\screens\address\add_new_address.dart:16||Add new Address
+lib\features\personalization\screens\address\add_new_address.dart:37||Phone Number
+lib\features\personalization\screens\address\add_new_address.dart:62||Postal Code
+lib\features\personalization\screens\profile\change_name.dart:40||First name
+lib\features\personalization\screens\profile\change_name.dart:52||Last name
+lib\features\personalization\screens\profile\profile.dart:152||أدخل رقم الحساب أو الـ IBAN
+lib\features\personalization\screens\profile\widget\re_authenticate_user_login_form.dart:16||Re-Authenticate User
+lib\features\personalization\screens\address\widget\single_address.dart:82||Building: ${address.buildingNumber}
+lib\features\authentication\controllers\forget_password\forget_password_controller.dart:40||Email Sent
+lib\features\authentication\controllers\forget_password\forget_password_controller.dart:41||Email Link to Reset Your Password
+lib\features\authentication\controllers\forget_password\forget_password_controller.dart:46||OH Snap
+lib\features\authentication\controllers\signup\signup_controllers.dart:40||Accept Privacy policy
+lib\features\authentication\controllers\signup\signup_controllers.dart:76||Your account has been created! verify email to continue.
+lib\features\authentication\controllers\signup\signup_controllers.dart:81||Error in SignupControllers.signup(): $e
+lib\features\authentication\controllers\signup\verify_email_controller.dart:28||Pleas Check your inbox and verify your email.
+lib\data\services\notification_controller.dart:91||📡 Notification Service Error: $e
+lib\data\services\notification_controller.dart:116||/order-details
+lib\data\services\notification_controller.dart:256||Navigate to Order: ${message.data['orderId']}
+lib\data\services\notification_controller.dart:367||Navigate to My Order Details: $orderId
+lib\data\services\notification_service.dart:15||User granted permission: ${settings.authorizationStatus}
+lib\data\services\notification_service.dart:32||FCM Token Updated: $token
+lib\data\services\notification_service.dart:35||Error updating token: $e
+lib\data\repositories\address\address_repository.dart:28||Somthing went wrong while fetching Address Information. Try again later.....
+lib\data\repositories\address\address_repository.dart:42||Unable to update your address selection. Try agine later
+lib\data\repositories\address\address_repository.dart:57||Somthing went wrong while fetching Address Information. Try again later
+lib\data\repositories\banners\banner_repository.dart:63||All Data has been Loading.
+lib\data\repositories\brands\brand_repository.dart:57||Oh Snap!3
+lib\data\repositories\brands\brand_repository.dart:60||Oh Snap!4
+lib\data\repositories\brands\brand_repository.dart:63||Oh Snap!5
+lib\data\repositories\brands\brand_repository.dart:66||Oh Snap!6
+lib\data\repositories\order\order_reposity.dart:26||Somthing went wrong while saving Order Information. Try again later...
+lib\data\repositories\product\product_repository.dart:46||Oh Snap?
+lib\data\repositories\product\product_repository.dart:98||array-contains
+lib\data\repositories\product\product_repository.dart:194||Oh Snap?10
+lib\data\repositories\product\product_repository.dart:197||Oh Snap?11
+lib\data\repositories\product\product_repository.dart:200||Oh Snap?12
+lib\data\repositories\product\product_repository.dart:203||Oh Snap?133
+lib\data\repositories\product\product_repository.dart:221||Oh Snap?z
+lib\data\repositories\product\product_repository.dart:224||Oh Snap?x
+lib\data\repositories\product\product_repository.dart:227||Oh Snap?c
+lib\data\repositories\product\product_repository.dart:230||Oh Snap?v
+lib\data\repositories\product\product_repository.dart:332||Oh Snap??
+lib\data\repositories\user\user_reposity.dart:24||Firebase Exception Message: ${e.message}
+lib\data\repositories\user\user_reposity.dart:32||Platform Exception Message: ${e.message}
+lib\data\repositories\Wallet\WalletRepository.dart:90||استرجاع مبلغ منتج مرفوض من الطلب #$orderId
+lib\data\repositories\Wallet\WalletRepository.dart:120||استرجاع مبلغ منتج من الطلب #$orderId
+lib\common\widgets\list_tile\user_profile_tile.dart:27||User Profile Image URL: ${user.username}
+lib\common\widgets\texts\text_price_detail.dart:19||$labele:
+---TOTAL---278
