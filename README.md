@@ -4,6 +4,14 @@
 [![GetX](https://img.shields.io/badge/State_Management-GetX-purple?style=for-the-badge)](https://pub.dev/packages/get)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 
+> [!IMPORTANT]
+> **⚠️ المشروع قيد التطوير النشط | Project Under Active Development**
+> 
+> **بالعربية:** يرجى العلم أن هذه المنظومة والمستودعات البرمجية المرتبطة بها لا تزال في مرحلة التطوير والاختبار النشط، ويتم تحديث الميزات ورفع الواجهات بشكل مستمر لتجهيزها للإطلاق الكامل.
+> 
+> **In English:** Please note that this ecosystem and its related repositories are currently under active development and testing. Features, fixes, and UI screens are continuously being updated as we push toward the stable production release.
+
+
 تطبيق هاتف محمول متكامل ومطور بلغة **Flutter**، يمثل حلقة الوصل الذكية بين المتاجر والمستخدمين في قطاع غزة. يتيح التطبيق للمستخدمين تصفح المتاجر المحلية وطلب المنتجات بكل سهولة مع تتبع لحظي لحالة الشحنات، وإدارة مالية آمنة عبر محفظة رقمية مدمجة.
 
 An advanced **Flutter** mobile application that acts as a smart bridge connecting local stores and users across the Gaza Strip. It enables seamless ordering, real-time order tracking, and secure financial management through an integrated digital wallet.
