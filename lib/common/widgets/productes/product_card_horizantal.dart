@@ -3,7 +3,7 @@ import 'package:iconsax/iconsax.dart';
 import 'package:untitled2_ecom/common/widgets/contaniners/rounded_container.dart';
 import 'package:untitled2_ecom/common/widgets/favourite_icon/favourite_icon.dart';
 import 'package:untitled2_ecom/common/widgets/images/rounded_image.dart';
-import 'package:untitled2_ecom/common/widgets/texts/TProductsTitleText.dart';
+import 'package:untitled2_ecom/common/widgets/texts/t_products_titleText.dart';
 import 'package:untitled2_ecom/common/widgets/texts/brand_title_with_verified_icon.dart';
 import 'package:untitled2_ecom/common/widgets/texts/text_price.dart';
 import 'package:untitled2_ecom/enums.dart';

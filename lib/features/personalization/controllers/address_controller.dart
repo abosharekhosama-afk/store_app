@@ -181,40 +181,6 @@ class AddressController extends GetxController {
     }
   }
 
-  /*
-  Future selectAddress(AddressModelNew newSelectedAddress) async {
-    try {
-      Get.defaultDialog(
-        title: "",
-        onWillPop: () async {
-          return false;
-        },
-        //barrierDismissible: false,
-        // backgroundColor: TColors.secondary,
-        content: const TCircularLoader(),
-      );
-
-      if (selctedAddress.value.id.isNotEmpty) {
-        await addressRepository.updateSelectedAddress(
-          selctedAddress.value.id,
-          false,
-        );
-        newSelectedAddress.selectedAddress = true;
-        selctedAddress.value = newSelectedAddress;
-        await addressRepository.updateSelectedAddress(
-          selctedAddress.value.id,
-          true,
-        );
-      }
-      Get.back();
-    } catch (e) {
-      TLoaders.errorSnackBar(
-        title: "حدث خطا اثناء تغيير اختيار العنوان",
-        message: e.toString(),
-      );
-    }
-  }
-*/
   Future addNewAddresses() async {
     try {
       TFullScreenLoader.openLoadingDialog(
@@ -335,55 +301,4 @@ class AddressController extends GetxController {
       ),
     );
   }
-
-  /*
-  Future<dynamic> selectNewAddressPopup(BuildContext contex) {
-    return showModalBottomSheet(
-      context: contex,
-      builder: (context) => Container(
-        padding: EdgeInsets.all(TSizes.lg),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            sectionHeading(
-              labelText: "Select Address",
-              showButtton: false,
-              padding: EdgeInsets.all(0),
-            ),
-            FutureBuilder(
-              future: getAllUserAddresses(),
-              builder: (context, snapshot) {
-                final respons = TCloudHelperFunctions.checkMultiRecordState(
-                  snapshot: snapshot,
-                );
-                // if (respons != null) return respons;
-
-                final data = snapshot.data!;
-
-                return ListView.builder(
-                  itemCount: data.length,
-                  itemBuilder: (context, index) => SingleAddress(
-                    address: data[index],
-                    otTap: () async {
-                      await selectAddress(data[index]);
-                      Get.back();
-                    },
-                  ),
-                );
-              },
-            ),
-            SizedBox(height: TSizes.defaultSpace * 2),
-            SizedBox(
-              width: double.infinity,
-              child: ElevatedButton(
-                onPressed: () => Get.to(() => AddressFormWidget()),
-                child: Text("Add new address"),
-              ),
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-*/
 }

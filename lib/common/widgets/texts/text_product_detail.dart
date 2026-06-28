@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:untitled2_ecom/common/widgets/texts/TProductsTitleText.dart';
+import 'package:untitled2_ecom/common/widgets/texts/t_products_titleText.dart';
 import 'package:untitled2_ecom/utils/constants/sizes.dart';
 
 class TTextProductDetail extends StatelessWidget {

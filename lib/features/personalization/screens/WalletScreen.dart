@@ -4,8 +4,8 @@ import 'package:iconsax/iconsax.dart';
 import 'package:intl/intl.dart';
 import 'package:untitled2_ecom/utils/constants/colors.dart';
 import 'package:untitled2_ecom/utils/constants/sizes.dart';
-import 'package:untitled2_ecom/wallet/controller/WalletController.dart';
-import 'package:untitled2_ecom/wallet/model/TransactionModel.dart';
+import 'package:untitled2_ecom/features/personalization/controllers/WalletController.dart';
+import 'package:untitled2_ecom/features/personalization/models/TransactionModel.dart';
 
 class WalletScreen extends StatelessWidget {
   const WalletScreen({super.key});

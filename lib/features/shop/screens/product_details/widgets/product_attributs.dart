@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:untitled2_ecom/common/widgets/chip/choice_chip.dart';
 import 'package:untitled2_ecom/common/widgets/contaniners/rounded_container.dart';
-import 'package:untitled2_ecom/common/widgets/texts/TProductsTitleText.dart';
+import 'package:untitled2_ecom/common/widgets/texts/t_products_titleText.dart';
 import 'package:untitled2_ecom/common/widgets/texts/section_heading.dart';
 import 'package:untitled2_ecom/common/widgets/texts/text_price_detail.dart';
-import 'package:untitled2_ecom/common/widgets/texts/textproductdetail.dart';
+import 'package:untitled2_ecom/common/widgets/texts/text_product_detail.dart';
 import 'package:untitled2_ecom/features/shop/controllers/product/variation_controller.dart';
 import 'package:untitled2_ecom/features/shop/models/product_model.dart';
 import 'package:untitled2_ecom/utils/constants/colors.dart';
@@ -117,31 +117,6 @@ class TProductAttributs extends StatelessWidget {
                 )
                 .toList(),
           ),
-
-          /*  Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              sectionHeading(
-                labelText: "المقاس",
-                showButtton: false,
-                padding: EdgeInsets.all(0),
-              ),
-              SizedBox(height: TSizes.spaceBtwItems / 2),
-              Wrap(
-                spacing: 8,
-                children: [
-                  TChoiceChip(
-                    text: "EU 34",
-                    selected: false,
-                    onSelected: (p0) {},
-                  ),
-                  TChoiceChip(text: "EU 36", selected: true, onSelected: (p0) {}),
-                  TChoiceChip(text: "EU 38", selected: true, onSelected: (p0) {}),
-                ],
-              ),
-            ],
-          ),
-        */
         ],
       ),
     );

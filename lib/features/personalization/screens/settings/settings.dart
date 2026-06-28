@@ -4,7 +4,7 @@ import 'package:get/get_navigation/get_navigation.dart';
 import 'package:get/instance_manager.dart';
 import 'package:iconsax/iconsax.dart';
 import 'package:untitled2_ecom/common/widgets/appbar/appbar.dart';
-import 'package:untitled2_ecom/common/widgets/custom_shapes/curved_edges/TModernHeaderDesign.dart';
+import 'package:untitled2_ecom/common/widgets/custom_shapes/curved_edges/t_modern_header_design.dart';
 import 'package:untitled2_ecom/common/widgets/list_tile/settings_menu_tile.dart';
 import 'package:untitled2_ecom/common/widgets/list_tile/user_profile_tile.dart';
 import 'package:untitled2_ecom/common/widgets/texts/section_heading.dart';
@@ -19,7 +19,7 @@ import 'package:untitled2_ecom/features/shop/screens/order/orders.dart';
 import 'package:untitled2_ecom/utils/constants/colors.dart';
 import 'package:untitled2_ecom/utils/constants/sizes.dart';
 import 'package:untitled2_ecom/utils/constants/text_strings.dart';
-import 'package:untitled2_ecom/wallet/screen/WalletScreen.dart';
+import 'package:untitled2_ecom/features/personalization/screens/WalletScreen.dart';
 
 class Settings extends StatelessWidget {
   const Settings({super.key});

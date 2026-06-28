@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:untitled2_ecom/data/repositories/Wallet/WalletRepository.dart';
 import 'package:untitled2_ecom/data/repositories/repositories.authentication/authentication_repository.dart';
-import 'package:untitled2_ecom/wallet/model/TransactionModel.dart';
+import 'package:untitled2_ecom/features/personalization/models/TransactionModel.dart';
 
 class WalletController extends GetxController {
   final repository = Get.put(WalletRepository());

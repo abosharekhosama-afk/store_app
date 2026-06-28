@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:untitled2_ecom/common/widgets/appbar/appbar.dart';
-import 'package:untitled2_ecom/features/shop/screens/product_reviews/widget/overallproduct_rating.dart';
-import 'package:untitled2_ecom/features/shop/screens/product_reviews/widget/review_comment.dart';
+import 'package:untitled2_ecom/features/shop/screens/product_reviews_unused/widget/overallproduct_rating.dart';
+import 'package:untitled2_ecom/features/shop/screens/product_reviews_unused/widget/review_comment.dart';
 import 'package:untitled2_ecom/utils/constants/image_strings.dart';
 import 'package:untitled2_ecom/utils/constants/sizes.dart';
 import 'package:untitled2_ecom/utils/constants/text_strings.dart';
@@ -12,7 +12,10 @@ class ProductReviews extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: TAppbar(title: Text(TTexts.reviewsAndRatings), showBackArrow: true),
+      appBar: TAppbar(
+        title: Text(TTexts.reviewsAndRatings),
+        showBackArrow: true,
+      ),
       body: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.all(TSizes.defaultSpace),

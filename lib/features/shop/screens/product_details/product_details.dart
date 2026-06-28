@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:readmore/readmore.dart';
-import 'package:untitled2_ecom/common/widgets/custom_shapes/curved_edges/TCuvedEdgeWidget.dart';
+import 'package:untitled2_ecom/common/widgets/custom_shapes/curved_edges/t_cuved_edge_widget.dart';
 import 'package:untitled2_ecom/common/widgets/favourite_icon/favourite_icon.dart';
 import 'package:untitled2_ecom/common/widgets/icons/circular_icon.dart';
 import 'package:untitled2_ecom/common/widgets/shimmers/similar_product_shimmer.dart';

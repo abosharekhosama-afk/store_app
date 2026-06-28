@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:get/get.dart';
 import 'package:untitled2_ecom/features/personalization/models/user_model.dart';
-import 'package:untitled2_ecom/wallet/model/TransactionModel.dart';
+import 'package:untitled2_ecom/features/personalization/models/TransactionModel.dart';
 
 class WalletRepository extends GetxController {
   static WalletRepository get instance => Get.find();

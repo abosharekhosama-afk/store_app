@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:untitled2_ecom/common/widgets/appbar/appbar.dart';
-import 'package:untitled2_ecom/common/widgets/productes_cart/Cart_menu_icon.dart';
+import 'package:untitled2_ecom/common/widgets/productes_cart/cart_menu_icon.dart';
 import 'package:untitled2_ecom/common/widgets/shimmers/shimmer.dart';
 import 'package:untitled2_ecom/features/personalization/controllers/user_controller.dart';
 import 'package:untitled2_ecom/features/shop/screens/cart/cart.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:untitled2_ecom/common/widgets/images/rounded_image.dart';
-import 'package:untitled2_ecom/common/widgets/texts/TProductsTitleText.dart';
+import 'package:untitled2_ecom/common/widgets/texts/t_products_titleText.dart';
 import 'package:untitled2_ecom/utils/constants/colors.dart';
 import 'package:untitled2_ecom/utils/constants/sizes.dart';
 import 'package:untitled2_ecom/utils/helpers/exports.dart';

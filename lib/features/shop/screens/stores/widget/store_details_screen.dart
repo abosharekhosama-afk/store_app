@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
 import 'package:cached_network_image/cached_network_image.dart';
@@ -41,6 +42,13 @@ class StoreDetailsScreen extends StatelessWidget {
             expandedHeight: 280,
             automaticallyImplyLeading: false,
             backgroundColor: dark ? TColors.dark : TColors.white,
+            systemOverlayStyle: SystemUiOverlayStyle(
+              statusBarColor: Colors.transparent,
+              statusBarIconBrightness: dark
+                  ? Brightness.light
+                  : Brightness.dark,
+              statusBarBrightness: dark ? Brightness.dark : Brightness.light,
+            ),
             // زر العودة
             leading: IconButton(
               onPressed: () => Get.back(),

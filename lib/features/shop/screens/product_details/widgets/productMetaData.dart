@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:untitled2_ecom/common/widgets/contaniners/rounded_container.dart';
-import 'package:untitled2_ecom/common/widgets/texts/TProductsTitleText.dart';
+import 'package:untitled2_ecom/common/widgets/texts/t_products_titleText.dart';
 import 'package:untitled2_ecom/common/widgets/texts/text_price.dart';
-import 'package:untitled2_ecom/common/widgets/texts/textproductdetail.dart';
+import 'package:untitled2_ecom/common/widgets/texts/text_product_detail.dart';
 import 'package:untitled2_ecom/features/shop/controllers/product/product_controller.dart';
 import 'package:untitled2_ecom/features/shop/models/product_model.dart';
 import 'package:untitled2_ecom/utils/constants/colors.dart';

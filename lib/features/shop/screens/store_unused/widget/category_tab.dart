@@ -7,7 +7,7 @@ import 'package:untitled2_ecom/common/widgets/texts/section_heading.dart';
 import 'package:untitled2_ecom/features/shop/controllers/category_controller.dart';
 import 'package:untitled2_ecom/features/shop/models/category_model.dart';
 import 'package:untitled2_ecom/features/shop/screens/all_products/all_products.dart';
-import 'package:untitled2_ecom/features/shop/screens/store/widget/category_brands.dart';
+import 'package:untitled2_ecom/features/shop/screens/store_unused/widget/category_brands.dart';
 import 'package:untitled2_ecom/utils/constants/sizes.dart';
 import 'package:untitled2_ecom/utils/constants/text_strings.dart';
 import 'package:untitled2_ecom/utils/helpers/cloud_helper_functions.dart';

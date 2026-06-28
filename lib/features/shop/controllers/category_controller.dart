@@ -49,23 +49,6 @@ class CategoryController extends GetxController {
     }
   }
 
-  /*
-  // دالة لجلب التصنيفات الفرعية ومن ثم جلب منتجات أول تصنيف تلقائياً
-  Future<void> loadSubCategoryData(String categoryId) async {
-    try {
-      isLoading.value = true;
-      final subs = await getSubCategory(categoryId: categoryId);
-      subCategories.assignAll(subs);
-
-      if (subCategories.isNotEmpty) {
-        // جلب منتجات أول تصنيف فرعي افتراضياً
-        await fetchProductsForSubCategory(subCategories[0].id, 0);
-      }
-    } finally {
-      isLoading.value = false;
-    }
-  }
-*/
   Future<void> fetchProductsForSubCategory(String subId, int index) async {
     selectedSubCategoryIndex.value = index;
     try {

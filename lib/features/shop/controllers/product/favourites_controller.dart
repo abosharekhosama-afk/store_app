@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:get/get.dart';
 import 'package:untitled2_ecom/data/repositories/product/product_repository.dart';
 import 'package:untitled2_ecom/features/shop/models/product_model.dart';
@@ -61,25 +60,6 @@ class FavouritesController extends GetxController {
     }
   }
 
-  /*
-  void toggleFavouriteProduct(String productId) {
-    print("-----------------------");
-    print("toggleFavouriteProduct");
-    print("-----------------------");
-    if (!favourites.containsKey(productId)) {
-      favourites[productId] = true;
-      saveFavoritesToStorage();
-
-      TLoaders.customToast(message: "تمت إضافة المنتج إلى المفضلة.");
-    } else {
-      TLocalStorage.instance().removeData(productId);
-      favourites.remove(productId);
-      saveFavoritesToStorage();
-      favourites.refresh();
-      TLoaders.customToast(message: "تمت إزالة المنتج من المفضلة.");
-    }
-  }
-*/
   void saveFavoritesToStorage() {
     final encodedFavorites = json.encode(favourites);
     TLocalStorage.instance().saveData("FAVORITES", encodedFavorites);
